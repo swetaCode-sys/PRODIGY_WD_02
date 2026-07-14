@@ -8,8 +8,7 @@ A simple and responsive Stopwatch Web Application built using **HTML**, **CSS**,
 - Start the stopwatch
 - Pause the timer
 - Reset the stopwatch
-- Record multiple lap times
-- Responsive design for desktop and mobile
+- Record multiple lap time
 - Clean and user-friendly interface
 
 ## Technologies Used

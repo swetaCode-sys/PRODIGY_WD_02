@@ -1,5 +1,3 @@
-# PRODIGY_WD_02
-
 # Stopwatch Web Application
 
 A simple and responsive Stopwatch Web Application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to accurately measure time with essential stopwatch features such as Start, Pause, Reset, and Lap recording.
@@ -17,8 +15,7 @@ A simple and responsive Stopwatch Web Application built using **HTML**, **CSS**,
 - JavaScript (ES6)
 
 ## Project Structure
-->PRODIGY_WD_02
-->STOPWATCH APPLICATION
+->STOPWATCH 
 ->index.html
 ->script.js
 ->style.css
